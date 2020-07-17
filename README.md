@@ -94,4 +94,4 @@ for payment in CCPoll(Wrapper).listen(sleep = 5):
 ## Дополнительно
 * [Разработчик](http://vk.com/duzive)
 * [Официальная документация](https://documenter.getpostman.com/view/8482328/SVfGzCCM?version=latest)
-* Буду рад ❤️
+* Буду рад 🌟
