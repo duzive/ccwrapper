@@ -22,7 +22,7 @@ from ccwrapper import CatCoinWrapper
 Wrapper = CatCoinWrapper(user_id = 12345678, token = "your_token")
 ```
 * `user_id` - Ваш ID Вконтакте
-* `token` - Ключ CatCoin Api(получаем [здесь]("https://vk.com/app7044895#getapikey"))
+* `token` - Ключ CatCoin Api(получаем [здесь](https://vk.com/app7044895#getapikey))
 
 
 ## Использование
