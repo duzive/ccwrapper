@@ -77,6 +77,7 @@ Wrapper.get_lost_transfer()
 
 ### --> LongPolling
 **модуль также нативно поддерживает простой LongPolling**
+
 **Для этого используется отдельный класс "CCPoll" с передачей экземпляра класса "CatCoinWrapper"**
 ```python /* или python3 */
 from ccwrapper import CCPoll
