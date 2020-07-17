@@ -10,8 +10,9 @@ pip install ccwrapper
 ```
 * Через pip из GitHub
 ```bash
-pip install https://github.com/Duzive/ccwrapper/archive/master.zip --upgrade```
-Работа с модулем
+pip install https://github.com/Duzive/ccwrapper/archive/master.zip --upgrade
+```
+##Работа с модулем
 ---
 ### Быстрый старт
 ***Для начала создадим экземпляр основного класса***
